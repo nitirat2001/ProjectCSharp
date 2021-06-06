@@ -67,37 +67,37 @@ namespace Pro_1
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             RadioBT = radioButton1.Text;
-            Coupon = label2.Text;
+            Coupon = label1.Text;
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             RadioBT = radioButton2.Text;
-            Coupon = label3.Text;
+            Coupon = label2.Text;
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             RadioBT = radioButton3.Text;
-            Coupon = label4.Text;
+            Coupon = label3.Text;
         }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
             RadioBT = radioButton4.Text;
-            Coupon = label5.Text;
+            Coupon = label4.Text;
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
             RadioBT = radioButton5.Text;
-            Coupon = label6.Text;
+            Coupon = label5.Text;
         }
 
         private void radioButton6_CheckedChanged(object sender, EventArgs e)
         {
             RadioBT = radioButton6.Text;
-            Coupon = label7.Text;
+            Coupon = label6.Text;
         }
 
         private void button1_Click(object sender, EventArgs e)
